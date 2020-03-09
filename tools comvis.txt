@@ -3,7 +3,6 @@ tools comvis dan cara install
 1. python 3 (jgn lupa set path nya) https://www.petanikode.com/python-windows/
 2. jupyter notebook https://ngodingdata.com/memahami-jupyter-notebook-dan-cara-menggunakannya/
 
-
 package wajib
 1. numpy https://pypi.org/project/numpy/
 2. opencv https://pypi.org/project/opencv-python/
